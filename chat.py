@@ -2,7 +2,7 @@
 import openai
 
 # 输入你的 api_key
-chat_gpt_key = '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'
+chat_gpt_key = 'XXXXXXX'
 # 将 Key 进行传入
 openai.api_key = chat_gpt_key
 
