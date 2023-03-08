@@ -113,7 +113,7 @@ class App(AppUI):
 
 if __name__ == "__main__":
     # 输入你的 api_key
-    chat_gpt_key = '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'
+    chat_gpt_key = 'xxxx'
     # 将 Key 进行传入
     openai.api_key = chat_gpt_key
     top = Tk()
